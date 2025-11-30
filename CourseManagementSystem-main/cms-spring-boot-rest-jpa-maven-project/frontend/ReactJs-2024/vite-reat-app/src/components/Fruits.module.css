@@ -1,0 +1,16 @@
+
+.head2{
+    width: 50%;
+    background-color: chocolate;
+    color: white;
+    border: 2px solid darkcyan;
+    margin: 20px;
+    padding: 10px;
+}
+
+.items{
+    width: 50%;
+    border: 2px solid darkcyan;
+    padding: 10px;
+    margin: 10px;
+}
